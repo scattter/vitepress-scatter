@@ -17,16 +17,16 @@
 import card from './card.vue'
 const cards = [
   {
-    type: 'custom',
+    type: 'custom card',
   },
   {
     topic: '🐕',
-    title: 'zk',
+    title: 'zkk',
     detail: 'a boy'
   },
   {
     topic: '🦊',
-    title: 'sw',
+    title: 'sww',
     detail: 'a cool girl'
   },
 ]
